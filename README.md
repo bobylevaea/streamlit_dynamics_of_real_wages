@@ -16,7 +16,7 @@ Streamlit-приложение можно посмотреть по [ссылк�
 $ python -m venv venv
 $ venv\Scripts\activate
 $ pip install -r requirements.txt
-$ streamlit run app.py
+$ streamlit run app.py```
 
 Откройте http://localhost:8501, чтобы просмотреть приложение.
 
